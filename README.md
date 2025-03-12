@@ -1,0 +1,1 @@
+The project aims to analyze customers' personal data to understand the factors influencing acceptance or rejection cases. It includes studying borrowers' personal data such as age, gender, income, education level, and housing status, in addition to loan details like loan amount, interest rate, and loan purpose, to provide a final result of either acceptance or rejection.
